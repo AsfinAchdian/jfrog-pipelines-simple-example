@@ -2,7 +2,7 @@ resources:
   - name: myGitRepo
     type: GitRepo
     configuration:
-      gitProvider: my_github
+      gitProvider: jejen_github
       path: AsfinAchdian/jfrog-pipelines-simple-example
       branches:
         include: master
